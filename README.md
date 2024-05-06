@@ -1,3 +1,3 @@
-# Yolo_v8
+# Yolo_V8
 
 YOLO Version 8
